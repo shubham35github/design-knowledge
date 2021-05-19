@@ -23,3 +23,6 @@ Types of Paradigm
   
 SOLID Principles for Good design pattern:
 
+# Dependency Inversion Principle
+![image](https://user-images.githubusercontent.com/22257234/118754374-8dd9ff00-b884-11eb-8fa6-aefcfb6fed00.png)
+
