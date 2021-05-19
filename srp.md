@@ -1,2 +1,0 @@
-# SRP
-> Single Responsibility Principle
